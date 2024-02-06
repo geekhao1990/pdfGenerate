@@ -1,4 +1,4 @@
-<!-- pdfWeb.vue -->
+<!--  输出pdf的逻辑都在exportAsPdf方法中 -->
 
 <template>
     <div class="wrap clearfix" ref="pdfContent">
