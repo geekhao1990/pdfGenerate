@@ -1,4 +1,4 @@
-<!--  输出pdf的逻辑都在exportAsPdf方法中 -->
+<!--  展现pdf的预览，和输出pdf，输出pdf的逻辑都在exportAsPdf方法中 -->
 
 <template>
     <div class="wrap clearfix" ref="pdfContent">
